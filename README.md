@@ -1,8 +1,8 @@
-<div align="center">
- <p>
-  <a href="https://github.com/ZghostPlayer"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=redvCenter=true&size=22"  ></a>
-</p>
+<div align="center" style>
+ <img src="https://s12.gifyu.com/images/SVnap.gif" alt="Efeito Cascata" style="width: 25rem; height: 12.5rem;">
 </div>
+
+##
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZghostPlayer&theme=tokyonight-duo" height="145" alt="ZghostPlayer's streak" />
