@@ -1,17 +1,26 @@
 <div align="center" style>
- <img src="https://s12.gifyu.com/images/SVnap.gif" alt="Efeito Cascata" style="width: 25rem; height: 12.5rem;">
+ <h3> Welcome To My Kingdom :)</h3>
+ <br>
+ <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE3Mzg4NzUsIm5iZiI6MTcxMTczODU3NSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI5VDE4NTYxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZhZGExZDBiNmE2MzdlNGYzNDhmZGRhYTg0ZWYxNDM1ZGI3N2U5OTQ1ZjM5N2Y3ZmNmYmEzYTAyMGQ0NTlhMWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.kSiSdMknC8mmzgwkVqQXBBUtEi8ghhUTdMNnrI8_NZE" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+ <br><br>
 </div>
 
-##
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width: 100rem; display: inline-block;" data-target="animated-image.originalImage">
+ <br><br><br>
+</div>
 
 <div align="center">
+ <h3>My Stats</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZghostPlayer&theme=tokyonight-duo" height="145" alt="ZghostPlayer's streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZghostPlayer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=00000000&hide_border=false" height="145" alt="ZghostPlayer's Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=ZghostPlayer&show_icons=true&bg_color=00000000" height="145" alt="ZghostPlayer stats graph"/>
 </div>
 
-##
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</div>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZghostPlayer&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZghostPlayer&theme=chartreuse_dark) |
 | :-: | :-: | 
@@ -19,7 +28,9 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZghostPlayer&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZghostPlayer&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZghostPlayer&theme=chartreuse_dark&utcOffset=8) |
 | :-: | :-: | :-: | 
 
-##
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width: 100rem; display: inline-block;" data-target="animated-image.originalImage">
+</div>
 
 <div align="center">
 <h3> My Stacks </h3>
@@ -51,11 +62,19 @@
     <a href="https://sequelize.org/" target="_blank"><img src="https://sequelize.org/img/logo.svg" height="40" margin-left="10px" width="52" alt="sequelize logo"  />
 </div>
 
-##  GitHub Trophies
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width: 100rem; display: inline-block;" data-target="animated-image.originalImage">
+ <br><br><br>
+</div>  
+
+<b>GitHub Trophies</b>
      
 ![](https://github-profile-trophy.vercel.app/?username=ZghostPlayer&theme=radical&no-frame=true&no-bg=false&margin-w=4)
  
-##
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width: 100rem; display: inline-block;" data-target="animated-image.originalImage">
+ <br><br><br>
+</div>
 
 <div align="center">
   <a href="https://github.com/ZghostPlayer/" target="_blank"><img src="https://profile-counter.glitch.me/ZghostPlayer/count.svg?"  />
