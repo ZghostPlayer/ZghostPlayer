@@ -5,10 +5,7 @@
  <br><br>
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width: 100rem; display: inline-block;" data-target="animated-image.originalImage">
- <br><br><br>
-</div>
+##
 
 <div align="center">
  <h3>My Stats</h3>
@@ -30,14 +27,11 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZghostPlayer&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZghostPlayer&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZghostPlayer&theme=chartreuse_dark&utcOffset=8) |
 | :-: | :-: | :-: | 
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width: 100rem; display: inline-block;" data-target="animated-image.originalImage">
-</div>
+##
 
 <div align="center">
-<h3> My Stacks </h3> 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" style="width: 10rem; display: inline-block;" data-target="animated-image.originalImage">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="width: 100rem; display: inline-block;" data-target="animated-image.originalImage">
+<h3> My Stacks</h3>
+
 <div align="left">
   <a href="https://java.com" target="_blank"><a href="https://java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
   <a href="https://spring.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="spring logo"  />
@@ -65,21 +59,15 @@
   <a href="https://sequelize.org/" target="_blank"><img src="https://sequelize.org/img/logo.svg" height="40" margin-left="10px" width="52" alt="sequelize logo"  />
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width: 100rem; display: inline-block;" data-target="animated-image.originalImage">
- <br><br>
-</div>  
+##
 
 <div align="center">
-<b>Contact Me</b>
-<br>
-  <a href="https://www.linkedin.com/in/zaqueu-mancio-filho-b66ab61b0/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" style="width: 5rem; display: inline-block;" data-target="animated-image.originalImage" alt="LinkedIn">
+<h3>Contact Me</h3>
+  <a href="https://www.linkedin.com/in/zaqueu-mancio-filho-b66ab61b0/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="60" margin-left="10px" width="60" alt="LinkedIn">
+   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=zmanciofilho@gmail.com" target="_blank"><img src="https://i.pinimg.com/originals/1e/1e/8f/1e1e8fbfed3d555c052154b6bad2c05c.jpg" height="50" margin-bottom="100px" width="60" alt="Gmail" />
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="width: 100rem; display: inline-block;" data-target="animated-image.originalImage" >
- <br><br><br>
-</div>
+##
 
 <div align="center">
   <a href="https://github.com/ZghostPlayer/" target="_blank"><img src="https://profile-counter.glitch.me/ZghostPlayer/count.svg?"  />
