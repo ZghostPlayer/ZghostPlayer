@@ -1,7 +1,7 @@
 <div align="center" style>
  <h1> Hi, Welcome to my profile :) </h1>
  <br>
- <img src="https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIyNzI2NDksIm5iZiI6MTcxMjI3MjM0OSwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDA0VDIzMTIyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU5ZTljZDA1ZWUxMWVkZTY2MWVkOWM2NTQ0NWIzMDY0Yjg1YWZkYTgzMDYzY2FkMDUyMjJiOGFjNGZjMTdiMTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Ugc88RZPhidoNcth8jifuYeFVT0VUSBnoFPredF0ZRs" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+ <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
  <br><br>
 </div>
 
