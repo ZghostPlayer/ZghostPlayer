@@ -1,5 +1,5 @@
 <div align="center" style>
- <h1> Welcome to my profile </h1>
+ <h1> Welcome to my profile : </h1>
  <br>
  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
  <br><br>
