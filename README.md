@@ -74,7 +74,6 @@
   <a href="https://about.gitlab.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo" /></a>
   <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" width="52" alt="postman logo" /></a>
   <a href="https://vercel.com/" target="_blank"><img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" height="40" width="52" alt="vercel logo" /></a>
-  <a href="https://chat.openai.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/chatgpt-4.svg" height="40" width="52" alt="chatgpt logo" /></a>
 
 </div>
 
